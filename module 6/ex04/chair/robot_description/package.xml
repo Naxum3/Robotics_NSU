@@ -4,7 +4,7 @@
   <name>robot_description</name>
   <version>0.0.1</version>
   <description>URDF description files for the robot project</description>
-  <maintainer email="alexgrihalex@gmail.com">grenka</maintainer>
+  <maintainer email="rempel_s2003@mail.ru">naxum</maintainer>
   <license>Apache 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

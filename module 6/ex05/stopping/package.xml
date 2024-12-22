@@ -4,7 +4,7 @@
   <name>stopping</name>
   <version>0.0.0</version>
   <description>Robot stopping at wall</description>
-  <maintainer email="alexgrihalex@gmail.com">grenka</maintainer>
+  <maintainer email="rempel_s2003@mail.ru">naxum</maintainer>
   <license>Apache License 2.0</license>
 
   <test_depend>ament_copyright</test_depend>

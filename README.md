@@ -1,3 +1,4 @@
+```mermaid
 ---
 title: Диаграмма компонентов - Покупка 3D модели
 ---
@@ -70,3 +71,4 @@ componentDiagram
     Delivery -- DB : Логирование
 
     Platform -- DB : Хранение/Получение
+```
